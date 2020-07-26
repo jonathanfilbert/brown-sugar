@@ -1,3 +1,10 @@
-# Strapi application
+# Brown-Sugar
 
-A quick description of your strapi application
+A headless NodeJS CMS for [boba](https://github.com/jonathanfilbert/boba).
+
+## This CMS will serve:
+
+- Project details
+- Experience details
+- Run details
+- Book details
