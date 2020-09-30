@@ -13,6 +13,7 @@
   "dependencies": {
     "knex": "<0.20.0",
     "pg": "^8.3.0",
+    "pg-connection-string": "^2.3.0",
     "sqlite3": "latest",
     "strapi": "3.1.1",
     "strapi-admin": "3.1.1",
@@ -20,6 +21,7 @@
     "strapi-plugin-content-manager": "3.1.1",
     "strapi-plugin-content-type-builder": "3.1.1",
     "strapi-plugin-email": "3.1.1",
+    "strapi-plugin-graphql": "3.1.1",
     "strapi-plugin-upload": "3.1.1",
     "strapi-plugin-users-permissions": "3.1.1",
     "strapi-utils": "3.1.1"
